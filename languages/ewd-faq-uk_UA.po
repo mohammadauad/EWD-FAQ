@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EWD FAQ 1.0\n"
+"POT-Creation-Date: 2021-07-11 09:44+0300\n"
+"PO-Revision-Date: 2021-07-11 09:44+0300\n"
+"Last-Translator: Mohammad Auad\n"
+"Language-Team: Euroweb Digital\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "FAQ ID"
+msgstr ""
+
+msgid "FAQ Author"
+msgstr ""
+
+msgid "FAQs"
+msgstr ""
+
+msgid "FAQ"
+msgstr ""
+
+msgid "Add a new one"
+msgstr ""
+
+msgid "Add a new FAQ"
+msgstr ""
+
+msgid "Edit the FAQ"
+msgstr ""
+
+msgid "New FAQ"
+msgstr ""
+
+msgid "See the FAQ"
+msgstr ""
+
+msgid "Find a FAQ"
+msgstr ""
+
+msgid "FAQs not found"
+msgstr ""
+
+msgid "No FAQs found in the trash"
+msgstr ""
+
+msgid "Parent Pages:"
+msgstr ""
+
+msgid "FAQ Questions & Responses"
+msgstr ""
+
+msgid "Question"
+msgstr ""
+
+msgid "Response"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Add an item"
+msgstr ""
+
+msgid "Custom Settings"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Title Color"
+msgstr ""
+
+msgid "Text Color"
+msgstr ""
+
+msgid "Title Background"
+msgstr ""
+
+msgid "Text Background"
+msgstr ""
+
+msgid "Active Title Color"
+msgstr ""
+
+msgid "Active Title Background"
+msgstr ""
+
+msgid "Title Padding Top (px)"
+msgstr ""
+
+msgid "Title Padding Bottom (px)"
+msgstr ""
+
+msgid "Title Padding Left (px)"
+msgstr ""
+
+msgid "Title Padding Right (px)"
+msgstr ""
+
+msgid "Text Padding Top (px)"
+msgstr ""
+
+msgid "Text Padding Bottom (px)"
+msgstr ""
+
+msgid "Text Padding Left (px)"
+msgstr ""
+
+msgid "Text Padding Right (px)"
+msgstr ""
+
+msgid "Title Size (px)"
+msgstr ""
+
+msgid "Text Size (px)"
+msgstr ""
+
+msgid "Radius (px)"
+msgstr ""
+
+msgid "Icon Color"
+msgstr ""
+
+msgid "Active Icon Color"
+msgstr ""
+
+msgid "Icon Size"
+msgstr ""

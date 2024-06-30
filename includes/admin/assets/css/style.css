@@ -1,0 +1,91 @@
+#titlewrap.champ-titre-vide #title {
+    border-color: #fc1b15; 
+}
+button.remove_faq_item {
+    background:#fc1b15; 
+    color: #fff;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 3px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+/* .faq-item-b > div {
+    width: 50%;
+} */
+.faq-item-b {
+    display: flex;
+    gap: 30px;
+    padding: 0 15px;
+}
+
+button#add_faq_item {
+    background: #2271b1;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+
+}
+.faq-item-b label {
+    font-weight: 700;
+    margin-bottom: 5px;
+    display: block;
+}
+.reg-faq label {
+    font-weight: 700;
+}
+.faq-item textarea {
+    width: 100%;
+    border: none;
+}
+div#faq_questions_responses_bloc_shortcode {
+    background: #fff;
+    padding: 15px;
+    font-weight: 700;
+    margin-top: 40px;
+}
+.faq-item {
+    display: none;
+}
+div#faq_questions_responses_bloc {
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.reg-faq {
+    padding: 10px 0;
+}
+
+
+.reg-faq [type=number] {
+    max-width: 65px;
+}
+
+
+
+.validate-icon {
+    cursor: pointer;
+    margin-left: 5px;
+}
+span#validateToken i {
+    font-size: 24px;
+    line-height: 24px;
+    margin-left: 7px;
+    cursor: pointer;
+}
+.token-settings-faq {
+    display: flex;
+    align-items: center;
+}
+
+.valid {
+    color: green;
+}
+
+.invalid {
+    color: red;
+}
+
+span#validationStatus {
+    padding: 0 7px;
+}

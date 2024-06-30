@@ -1,0 +1,53 @@
+.accordion {
+    border-radius: 8px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.accordion {
+  border-bottom: 1px solid #8080806b;
+}
+  .accordion-header {
+    border: none;
+    width: 100%;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .accordion-header > span {
+    max-width: 100%;
+    text-align: left;
+    display: block;
+    float: left;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+}
+.accordion-header svg {
+  flex-shrink: 0;
+  float: right;
+  vertical-align: middle;
+}
+  .accordion-body {
+    font-size: 14px;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    transition: opacity .3s 
+  }
+  
+  .accordion-body.active {
+    height: 100%;
+    opacity: 1;
+    
+    padding: 5px;
+  }
+  
+  
+  .arrow {
+    transition: transform .2s linear;
+  }
+  .accordion:has(.active) .arrow {
+    transform: rotate(180deg);
+  }
